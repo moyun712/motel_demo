@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/dsd01.dir/cmd/menu.c.o CMakeFiles/dsd01.dir/service/inv.c.o CMakeFiles/dsd01.dir/data/graph_inv_repo.c.o -o dsd01 
