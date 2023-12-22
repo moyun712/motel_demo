@@ -1,1 +1,0 @@
-/usr/bin/cc CMakeFiles/dsd02.dir/cmd/menu.c.o CMakeFiles/dsd02.dir/service/inv.c.o CMakeFiles/dsd02.dir/data/linklist_inv_repo.c.o -o dsd02 
