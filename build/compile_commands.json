@@ -1,0 +1,38 @@
+[
+{
+  "directory": "/mnt/d/Code/c/model/motel_demo/build",
+  "command": "/usr/bin/gcc  -I/mnt/d/Code/c/model/motel_demo/include -I/mnt/d/Code/c/model/motel_demo/lib -g -std=gnu11 -o CMakeFiles/dsd02.dir/cmd/menu.c.o -c /mnt/d/Code/c/model/motel_demo/cmd/menu.c",
+  "file": "/mnt/d/Code/c/model/motel_demo/cmd/menu.c",
+  "output": "CMakeFiles/dsd02.dir/cmd/menu.c.o"
+},
+{
+  "directory": "/mnt/d/Code/c/model/motel_demo/build",
+  "command": "/usr/bin/gcc  -I/mnt/d/Code/c/model/motel_demo/include -I/mnt/d/Code/c/model/motel_demo/lib -g -std=gnu11 -o CMakeFiles/dsd02.dir/service/mod.c.o -c /mnt/d/Code/c/model/motel_demo/service/mod.c",
+  "file": "/mnt/d/Code/c/model/motel_demo/service/mod.c",
+  "output": "CMakeFiles/dsd02.dir/service/mod.c.o"
+},
+{
+  "directory": "/mnt/d/Code/c/model/motel_demo/build",
+  "command": "/usr/bin/gcc  -I/mnt/d/Code/c/model/motel_demo/include -I/mnt/d/Code/c/model/motel_demo/lib -g -std=gnu11 -o CMakeFiles/dsd02.dir/data/linklist_mod_repo.c.o -c /mnt/d/Code/c/model/motel_demo/data/linklist_mod_repo.c",
+  "file": "/mnt/d/Code/c/model/motel_demo/data/linklist_mod_repo.c",
+  "output": "CMakeFiles/dsd02.dir/data/linklist_mod_repo.c.o"
+},
+{
+  "directory": "/mnt/d/Code/c/model/motel_demo/build",
+  "command": "/usr/bin/gcc  -I/mnt/d/Code/c/model/motel_demo/include -I/mnt/d/Code/c/model/motel_demo/lib -g -std=gnu11 -o CMakeFiles/dsd01.dir/cmd/menu.c.o -c /mnt/d/Code/c/model/motel_demo/cmd/menu.c",
+  "file": "/mnt/d/Code/c/model/motel_demo/cmd/menu.c",
+  "output": "CMakeFiles/dsd01.dir/cmd/menu.c.o"
+},
+{
+  "directory": "/mnt/d/Code/c/model/motel_demo/build",
+  "command": "/usr/bin/gcc  -I/mnt/d/Code/c/model/motel_demo/include -I/mnt/d/Code/c/model/motel_demo/lib -g -std=gnu11 -o CMakeFiles/dsd01.dir/service/mod.c.o -c /mnt/d/Code/c/model/motel_demo/service/mod.c",
+  "file": "/mnt/d/Code/c/model/motel_demo/service/mod.c",
+  "output": "CMakeFiles/dsd01.dir/service/mod.c.o"
+},
+{
+  "directory": "/mnt/d/Code/c/model/motel_demo/build",
+  "command": "/usr/bin/gcc  -I/mnt/d/Code/c/model/motel_demo/include -I/mnt/d/Code/c/model/motel_demo/lib -g -std=gnu11 -o CMakeFiles/dsd01.dir/data/graph_mod_repo.c.o -c /mnt/d/Code/c/model/motel_demo/data/graph_mod_repo.c",
+  "file": "/mnt/d/Code/c/model/motel_demo/data/graph_mod_repo.c",
+  "output": "CMakeFiles/dsd01.dir/data/graph_mod_repo.c.o"
+}
+]
