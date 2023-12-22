@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/dsd02.dir/cmd/menu.c.o CMakeFiles/dsd02.dir/service/mod.c.o CMakeFiles/dsd02.dir/data/linklist_mod_repo.c.o -o /mnt/d/Code/C/model/motel_demo/build/dsd02 
