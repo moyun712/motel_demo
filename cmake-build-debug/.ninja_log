@@ -1,0 +1,7 @@
+# ninja log v5
+18	278	7247786832851638	CMakeFiles/dsd01.dir/data/linklist_mod_repo.c.obj	100e45602475aacd
+47	284	7247786832828602	CMakeFiles/dsd01.dir/service/mod.c.obj	eb605bc6d4d3bcda
+33	286	7247786832861689	CMakeFiles/dsd01.dir/data/graph_mod_repo.c.obj	f4c62f4fad1f29d5
+2	288	7247786832828602	CMakeFiles/dsd01.dir/cmd/menu.c.obj	6955366cf6e5d816
+2	157	7247787402679755	CMakeFiles/dsd02.dir/service/mod.c.obj	8e5b8dac433340e4
+32	197	7247787403075119	CMakeFiles/dsd02.dir/data/linklist_mod_repo.c.obj	56c596984e72549c

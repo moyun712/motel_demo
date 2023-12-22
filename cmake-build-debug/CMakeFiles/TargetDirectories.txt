@@ -1,0 +1,4 @@
+/mnt/d/Code/C/model/motel_demo/cmake-build-debug/CMakeFiles/dsd02.dir
+/mnt/d/Code/C/model/motel_demo/cmake-build-debug/CMakeFiles/dsd01.dir
+/mnt/d/Code/C/model/motel_demo/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/d/Code/C/model/motel_demo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
